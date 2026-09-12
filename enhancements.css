@@ -1,0 +1,195 @@
+:root {
+  --sans: "Manrope", Arial, sans-serif;
+  --serif: "Source Serif 4", Georgia, serif;
+}
+
+body {
+  overflow-x: clip;
+  text-rendering: optimizeLegibility;
+}
+
+#home,
+#story,
+#ai-trust,
+#exposure,
+#demo,
+#company,
+#insights {
+  scroll-margin-top: 76px;
+}
+
+.site-header {
+  transition: background-color 240ms ease, box-shadow 240ms ease;
+}
+
+.site-header.is-scrolled {
+  box-shadow: 0 10px 32px rgba(6, 19, 51, 0.08);
+}
+
+.wordmark {
+  font-weight: 700;
+  letter-spacing: 0.15em;
+}
+
+nav a {
+  position: relative;
+  transition: color 180ms ease;
+}
+
+nav a:not(.button)::after {
+  background: var(--teal);
+  bottom: -0.45rem;
+  content: "";
+  height: 1px;
+  left: 0;
+  position: absolute;
+  transform: scaleX(0);
+  transform-origin: right;
+  transition: transform 180ms ease;
+  width: 100%;
+}
+
+nav a:not(.button):hover::after,
+nav a:not(.button):focus-visible::after {
+  transform: scaleX(1);
+  transform-origin: left;
+}
+
+.button,
+.text-link {
+  transition: transform 180ms ease, background-color 180ms ease, box-shadow 180ms ease;
+}
+
+.button:hover,
+.button:focus-visible,
+.text-link:hover,
+.text-link:focus-visible {
+  transform: translateY(-2px);
+}
+
+.button:hover,
+.button:focus-visible {
+  background: var(--blue);
+  box-shadow: 0 9px 20px rgba(4, 16, 43, 0.18);
+}
+
+.hero {
+  isolation: isolate;
+}
+
+.hero::before {
+  animation: radial-shift 16s ease-in-out infinite alternate;
+  background: radial-gradient(circle at 83% 42%, rgba(28, 102, 237, 0.23), transparent 24%),
+    radial-gradient(circle at 65% 76%, rgba(19, 200, 179, 0.12), transparent 26%);
+  content: "";
+  inset: 0;
+  pointer-events: none;
+  position: absolute;
+  z-index: -1;
+}
+
+.hero-orbit {
+  animation: orbit-drift 15s ease-in-out infinite alternate;
+}
+
+.brand-asset {
+  align-self: flex-end;
+  background: rgba(255, 255, 255, 0.94);
+  border: 1px solid rgba(150, 202, 255, 0.38);
+  bottom: clamp(2rem, 6vw, 5rem);
+  box-shadow: 0 25px 70px rgba(0, 0, 0, 0.28);
+  margin: 0;
+  max-width: 230px;
+  padding: 0.55rem;
+  position: absolute;
+  right: clamp(1.25rem, 8vw, 9rem);
+  transform: rotate(2.5deg);
+  z-index: 2;
+}
+
+.brand-asset img {
+  display: block;
+  height: auto;
+  width: 100%;
+}
+
+.section-label,
+.eyebrow {
+  letter-spacing: 0.12em;
+}
+
+@keyframes orbit-drift {
+  from { transform: translate3d(-2%, -1%, 0) scale(0.98); }
+  to { transform: translate3d(3%, 3%, 0) scale(1.04); }
+}
+
+@keyframes radial-shift {
+  from { transform: scale(1); opacity: 0.7; }
+  to { transform: scale(1.1); opacity: 1; }
+}
+
+@media (max-width: 960px) {
+  .brand-asset {
+    max-width: 170px;
+  }
+}
+
+@media (max-width: 700px) {
+  nav {
+    gap: 0.25rem;
+    padding: 1rem 1.25rem 1.3rem;
+  }
+
+  nav a:not(.button) {
+    font-size: 0.92rem;
+    padding: 0.55rem 0;
+  }
+
+  nav a:not(.button)::after {
+    bottom: 0.4rem;
+  }
+
+  .button-small {
+    margin-top: 0.5rem;
+  }
+
+  .hero {
+    padding-bottom: 9rem;
+  }
+
+  .brand-asset {
+    bottom: 1.5rem;
+    max-width: 130px;
+    right: 1.25rem;
+  }
+
+  .hero-intro {
+    gap: 1.25rem;
+  }
+
+  .display-copy {
+    font-size: clamp(2rem, 9.5vw, 3.4rem);
+  }
+
+  .agent-chain,
+  .flow-line {
+    font-size: 0.85rem;
+    word-spacing: -0.18em;
+  }
+
+  .equation span,
+  .equation strong {
+    font-size: 0.74rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+}

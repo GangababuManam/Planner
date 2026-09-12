@@ -1,0 +1,157 @@
+0: ANTRIQ
+1: WEBSITE CONTENT | PAGES 1–3
+2: Intelligence Needs Trust.
+AI Needs ANTRIQ.™
+3: Secure AI. Govern Risk. Reduce Exposure. Build Trust.
+4: Content brief for web development • September 2026
+6: CONTENT & BRAND DIRECTION
+7: How to use this document
+8: This document contains the proposed copy and narrative structure for three core ANTRIQ website pages. The intent is to position ANTRIQ as a Singapore-based global product company focused on AI security, risk, governance, trust and intelligent threat exposure management.
+9: For the current website release, use capability/category names rather than permanent product names. Once the two commercial product names are finalised and trademark/registration checks are completed, the website can be updated consistently with the approved product architecture.
+10: Primary brand line: Intelligence Needs Trust. AI Needs ANTRIQ.™
+11: Corporate promise: Secure AI. Govern Risk. Reduce Exposure. Build Trust.
+12: Recommended top-level navigation
+13: Home  |  AI Security, Risk & Trust  |  Threat Exposure Management  |  Our Story  |  Insights  |  Company  |  Request a Demo
+14: Brand narrative
+15: ANTRIQ should not read like a consultancy or a point-solution vendor. The website should tell the story of a product company built around one central idea: as intelligence becomes more powerful and autonomous, enterprises need a new technology layer for security, governance, exposure intelligence and measurable trust.
+17: PAGE 1 | CORPORATE / HOME
+18: Intelligence Needs Trust.
+AI Needs ANTRIQ.™
+19: Secure AI. Govern Risk. Reduce Exposure. Build Trust.
+20: ANTRIQ is a Singapore-based global AI security, risk and cyber intelligence company building technology for a world increasingly powered by artificial intelligence.
+21: We help organisations embrace AI and emerging technology with greater confidence by bringing together AI security, AI risk, governance, trust and intelligent cyber exposure management.
+22: As intelligent systems become embedded in how organisations operate, decide and act, security can no longer be treated as a control added after innovation. Trust must become part of the technology itself.
+23: Singapore-Born. Global by Design.
+24: Built from Singapore—one of the world's most connected centres for technology, finance, innovation and trusted digital infrastructure—ANTRIQ is designed for organisations operating across industries, markets and regulatory environments worldwide.
+25: Our ambition is global: help enterprises, institutions and innovators capture the value of intelligent technology while protecting the systems, data, decisions and people that depend on it.
+26: We are not building security to slow AI down. We are building trust so organisations can safely speed AI up.
+27: Our Journey Began Before the AI Revolution.
+28: The thinking behind ANTRIQ began in 2013.
+29: Long before generative AI became part of everyday business, our journey was rooted in continuous research into emerging technology and the security, risk and governance challenges created by each new wave of innovation.
+30: Through cloud, mobility, data, automation, cybersecurity and increasingly intelligent systems, one pattern remained constant: every major technology shift creates extraordinary opportunity—and an entirely new dimension of risk.
+31: AI became the inflection point.
+32: 2013 was the beginning. AI is the inflection point. ANTRIQ is what comes next.
+33: From Research to Reality.
+34: As AI accelerated from experimentation to enterprise enablement and transformation, the challenge became clear: intelligence was evolving faster than traditional approaches to security, governance and risk.
+35: Technology, cybersecurity, AI, data, risk and governance experts with experience across multiple industries came together around a shared conviction: the next era of enterprise technology would require trust to be engineered—not assumed.
+36: Different disciplines. Different industries. One shared mission.
+37: Make intelligent systems worthy of trust.
+38: Two Challenges. One Vision.
+39: Securing Intelligence
+40: AI is moving beyond applications and copilots. Models reason. Agents access data and tools. Intelligent systems increasingly influence decisions and take actions.
+41: ANTRIQ helps organisations understand, secure, govern and continuously assure this new intelligent ecosystem.
+42: Secure AI. Govern Risk. Build Trust.
+43: Reducing Exposure
+44: At the same time, the enterprise attack surface continues to expand across cloud, applications, identities, infrastructure, vulnerabilities, third parties and AI.
+45: Security teams do not need another endless list of findings. They need to understand what is exposed, what can realistically be exploited, what matters to the business and what action will reduce risk fastest.
+46: See Exposure. Understand Risk. Act Intelligently.
+47: The ANTRIQ Mission
+48: ANTRIQ brings security, risk, governance, exposure and intelligence together to help organisations move confidently into the age of AI.
+49: For enterprises.
+50: For governments and institutions.
+51: For innovators.
+52: For the people who ultimately depend on intelligent technology.
+53: Intelligence Needs Trust. AI Needs ANTRIQ.™
+55: PAGE 2 | AI SECURITY, RISK, GOVERNANCE & TRUST
+56: AI Is Becoming More Powerful.
+Trust Must Keep Up.
+57: Secure AI. Govern Risk. Build Trust.
+58: Artificial intelligence is moving rapidly from generating content to reasoning, deciding and acting. The enterprise question is no longer simply, “How do we use AI?” It is becoming, “How do we know we can trust it?”
+59: The AI Trust Gap
+60: AI capability is advancing at extraordinary speed. Across the technology industry, researchers, engineers and leaders are openly debating the risks created by increasingly capable and autonomous systems—from alignment and misuse to cybersecurity, loss of control and unintended consequences.
+61: These concerns should not become a reason to stop innovation. They are a reason to build better security, governance, assurance and accountability around it.
+62: Innovation needs acceleration. Intelligence needs guardrails. Trust needs engineering.
+63: Secure AI.
+64: Understand and protect the complete AI ecosystem across models, applications, agents, identities, data, APIs, tools and infrastructure.
+65: Discover sanctioned, unsanctioned and emerging AI usage.
+66: Understand AI assets, models, agents, data flows and dependencies.
+67: Identify AI-specific attack surfaces and security weaknesses.
+68: Protect sensitive data and enterprise intellectual property.
+69: Assess model, agent, API, tool and third-party AI risk.
+70: Continuously adapt security as AI capabilities and behaviours change.
+71: Govern Risk.
+72: AI governance must move beyond static policies and spreadsheets. ANTRIQ is designed to bring inventory, ownership, classification, policies, assessments, controls, approvals, monitoring and evidence into a continuously governed environment.
+73: Know what AI exists.
+74: Know who owns it.
+75: Know what data it can access.
+76: Know what decisions it influences.
+77: Know what actions it can perform.
+78: Know which controls apply.
+79: Know what risk remains.
+80: From documentation to continuous governance intelligence.
+81: Build Trust.
+82: Trust cannot be established through a one-time assessment. Models change. Data changes. Agents gain capabilities. Dependencies evolve. Threats emerge.
+83: ANTRIQ brings security, risk, governance and assurance signals together to create a living view of AI trust—helping organisations continuously understand whether intelligent systems remain within their intended boundaries.
+84: From point-in-time compliance to continuous AI assurance.
+85: When AI Starts to Act
+86: The next transformation is already underway. AI agents can reason, invoke tools, access information, interact with systems and execute actions with increasing autonomy.
+87: Agent → Identity → Privilege → Tool → Data → Decision → Action → Outcome
+88: ANTRIQ is designed around a simple principle: the greater the autonomy, the greater the need for assurance.
+89: Discover every agent and establish ownership.
+90: Understand identity, privileges and delegated authority.
+91: Control tool and data access.
+92: Assess agent purpose, dependencies and risk.
+93: Monitor behaviour and autonomous actions.
+94: Maintain human accountability and meaningful oversight.
+95: Govern Every Agent. Trust Every Action.™
+96: The Human Outcome
+97: The AI safety debate is ultimately bigger than models and technology. It is about how intelligent systems affect organisations, economies and people.
+98: ANTRIQ believes the answer is neither fear nor blind acceleration. The goal is trustworthy intelligence: technology that can be understood, risk that can be measured, actions that can be governed, security that evolves with capability and accountability that remains human.
+99: Secure AI. Govern Risk. Build Trust.
+100: Intelligence Needs Trust. AI Needs ANTRIQ.™
+102: PAGE 3 | THREAT EXPOSURE MANAGEMENT
+103: You Don't Have a Vulnerability Problem.
+You Have an Exposure Problem.
+104: Reduce Exposure. Build Resilience.
+105: Enterprises already know they have vulnerabilities—often thousands or millions of findings across increasingly complex environments.
+106: The real challenge is understanding which weaknesses can become meaningful business risk, how attackers could use them, and what security teams should do first.
+107: Move from Findings to Exposure Intelligence
+108: ANTRIQ brings vulnerability, asset, threat, identity, attack-path and business context together to help security teams move from managing findings to continuously managing exposure.
+109: Discover → Contextualise → Prioritise → Remediate → Validate
+110: Discover the Real Attack Surface
+111: Continuously understand the assets, vulnerabilities, misconfigurations and security weaknesses that contribute to enterprise exposure.
+112: Cloud and infrastructure
+113: Applications and APIs
+114: Endpoints and workloads
+115: Identity and privilege
+116: External attack surface
+117: Security controls and configuration
+118: AI infrastructure and intelligent systems
+119: Third-party and technology dependencies
+120: Context Changes Everything
+121: A critical vulnerability does not automatically equal critical business risk. ANTRIQ enriches findings with the context required to understand actual exposure.
+122: Vulnerability severity
+123: + Exploitability
+124: + Active threat intelligence
+125: + Asset criticality
+126: + Identity and privilege
+127: + Attack paths
+128: + Existing security controls
+129: + Business impact
+130: = Exposure Intelligence
+131: 100,000 Findings Don't Need 100,000 Actions.
+132: The objective is not to make every finding look urgent. It is to identify the small number of actions that materially reduce risk.
+133: 100,000 Security Findings → 2,500 Relevant Exposures → 180 Material Risks → 15 Priority Actions
+134: The numbers above are illustrative website storytelling, not performance claims. They should be presented visually as an example of the prioritisation concept.
+135: Prioritise What Attackers Can Actually Use
+136: Traditional vulnerability management often asks, “How severe is this vulnerability?” Intelligent exposure management asks a broader question: “Can it be exploited, what can an attacker reach, what business capability is at risk, and what should we do now?”
+137: Severity → Context
+138: Findings → Exposure
+139: Volume → Priority
+140: Reactive patching → Risk reduction
+141: From Dashboards to Decisions
+142: Security teams do not need another dashboard telling them everything is critical. They need intelligence that improves decisions.
+143: What is our current exposure?
+144: Where are our highest-risk attack paths?
+145: Which vulnerabilities are realistically exploitable?
+146: Which assets and identities matter most?
+147: What should we remediate first?
+148: Which action will reduce the most risk?
+149: Did remediation actually reduce exposure?
+150: Reduce Exposure.
+151: The objective is not to fix every vulnerability. It is to continuously reduce the exposure that matters—using intelligence to focus people, time and investment where they create the greatest security outcome.
+152: See Exposure. Understand Risk. Act Intelligently.
+153: Secure AI. Govern Risk. Reduce Exposure. Build Trust.
+154: Website Implementation Note
+155: For the initial release, retain the capability labels “AI Security, Risk & Trust” and “Threat Exposure Management.” Do not lock permanent product names into navigation, URLs, diagrams or downloadable materials until naming, domain availability and trademark/registration reviews are complete. Once approved, the final two product brands can be applied consistently across the website.
+156: The corporate brand should remain ANTRIQ, anchored by: “Intelligence Needs Trust. AI Needs ANTRIQ.™”
